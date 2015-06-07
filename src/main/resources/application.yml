@@ -1,0 +1,5 @@
+catalog:
+    city1:
+        zipcodes: 1,2,3,4
+    city2:
+        zipcodes: 10,20,30,40
